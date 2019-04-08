@@ -13,7 +13,16 @@
           "package_name": "com.example.ejemplofirebase"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "665700149572-est6oha7m7jk8nqmc8ofult80bd4rj1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemplofirebase",
+            "certificate_hash": "12fa3f2e221c99e8a48d8c88ae029ba3a0571a68"
+          }
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBoVQG8GkXsYr7K3Z05wONHciHDFAGslFE"
