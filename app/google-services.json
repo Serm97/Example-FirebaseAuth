@@ -38,6 +38,39 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665700149572:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665700149572-rdqrdhnvi9ubtg45mpeasrjmrmd5fffb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "12fa3f2e221c99e8a48d8c88ae029ba3a0571a68"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVQG8GkXsYr7K3Z05wONHciHDFAGslFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665700149572-6bl2fa7rvr438c1foorg0q670s84mvt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

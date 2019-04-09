@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">Ejemplo Firebase</string>
-    <string name="action_settings">Settings</string>
-    <string name="sign_out">Sign Out</string>
-    <string name="verify_email">Verify Email</string>
-    <string name="login">Login</string>
-    <string name="signed_out">signed_out</string>
-    <string name="hint_email">Type a email</string>
-    <string name="hint_password">Type a password</string>
+    <string name="app_name">Firebase Auth</string>
+    <string name="desc_firebase_lockup">Sign In Firebase</string>
+    <string name="emailpassword_title_text">Autentication with Firebase</string>
+    <string name="hint_email">Type your email</string>
+    <string name="hint_password">Type your password</string>
     <string name="sign_in">Sign In</string>
-    <string name="create_account">New Accopunt</string>
-    <string name="desc_firebase_lockup">Autentication on Firebase</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Put</string>
+    <string name="verify_email" />
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="welcome">Welcome your App!!</string>
 </resources>
